@@ -2,9 +2,7 @@
     <x-slot:title>
         Biz haqimizda
     </x-slot:title>
-    <x-slot:active>
-        active
-    </x-slot:active>
+    
     <x-page>
         Biz haqimizda
     </x-page>

@@ -2,9 +2,7 @@
     <x-slot:title>
         Bizning loyihalar
     </x-slot:title>
-    <x-slot:active>
-        active
-    </x-slot:active>
+    
 
     <x-page>
         Loyihalar

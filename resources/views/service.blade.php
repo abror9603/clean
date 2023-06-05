@@ -4,9 +4,7 @@
 <x-slot:title>
     Bizning xizmatlar
 </x-slot:title>
-<x-slot:active>
-        active
-</x-slot:active>
+
 
 <x-page>
     Xizmatlarimiz

@@ -28,13 +28,10 @@ class MainController extends Controller
 
     public function latest_blog()
     {
-        return view('latest_blog');
+        return view('blog');
     }
 
-    public function blog_detail()
-    {
-        return view('blog_detail');
-    }
+
 
     public function contact()
     {

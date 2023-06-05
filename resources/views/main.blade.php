@@ -4,9 +4,7 @@
         Bosh saxifa
     </x-slot:title>
 
-    <x-slot:active>
-        active
-    </x-slot:active>
+    
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0">
