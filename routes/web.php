@@ -13,6 +13,7 @@ Route::get('project', [MainController::class, 'project'])->name('project');
 Route::get('blog', [MainController::class, 'latest_blog'])->name('blog');
 Route::get('contact', [MainController::class, 'contact'])->name('contact');
 
+
 // Route::get('/posts', [BlogController::class, 'index'])->name('post.index');
 // Route::get('/posts/{post}', [BlogController::class, 'show'])->name('post.show');
 // Route::get('/posts/create', [BlogController::class, 'create'])->name('post.create');

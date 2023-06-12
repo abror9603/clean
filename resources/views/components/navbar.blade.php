@@ -11,7 +11,7 @@
             <a href="{{route('about')}}" class="nav-item nav-link ">Biz haqimizda</a>
             <a href="{{route('service')}}" class="nav-item nav-link ">Xizmatlarimiz</a>
             <a href="{{route('project')}}" class="nav-item nav-link ">Loyihalar</a>
-            <a href="{{route('blog')}}" class="nav-item nav-link">Blog</a>
+            <a href="{{route('posts.index')}}" class="nav-item nav-link">Blog</a>
             <a href="{{route('contact')}}" class="nav-item nav-link">Aloqa</a>
         </div>
         <a href="" class="btn btn-primary mr-3 d-none d-lg-block">Get A Quote</a>
