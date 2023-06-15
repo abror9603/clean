@@ -1,0 +1,5 @@
+{
+    "Description": "Описание",
+    "It also allows you to upload your base translation to poeditor.": "Это также позволяет вам загрузить ваш базовый перевод в poeditor.",
+    "This package allows you to scan your app for translations and create your *.json file.": "Этот пакет позволяет сканировать приложение на наличие переводов и создавать файл *.json."
+}
